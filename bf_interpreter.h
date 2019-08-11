@@ -3,6 +3,8 @@
 /* error codes:
  *
  */
+#define DEFAULT_ARRAY_SIZE 16
+
 
 int increment_data_pointer(char * ptr);
 int decrement_data_pointer(char * ptr);
